@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-I'm from Morocco 🇲🇦, and I am a Python developer 👨‍💻 and a machine learning engineer. I craft my projects using Python and I enjoy solving complex problems I enjoy learning every day.  
+I'm from Morocco 🇲🇦, and I am a Python developer 👨‍💻 and a machine learning engineer.  
   
 
 <br/>  
