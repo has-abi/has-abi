@@ -50,15 +50,3 @@ I'm from Morocco 🇲🇦, and I am a Python developer 👨‍💻 and a machine
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=has-abi&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" style="width: 50%" /></div>
-<br/>  
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=has-abi&hide_border=true&layout=compact&theme=dark" align="center" style="width: 50%" />
-</div>
-
-<br />
