@@ -1,14 +1,8 @@
 ## Hey 👋, I'm Hassane Abida!  
   
 
-<a href="https://twitter.com/abidahass" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/hassan-abida" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/hass__abi" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/has-abi" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
@@ -21,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm from Morocco 🇲🇦 I am a Python developer 👨‍💻 and a Machine Learning engineer.  
+I'm from Morocco 🇲🇦 I am a Machine Learning engineer 👨‍💻 and a Python developer.  
   
 
 <br/>  
