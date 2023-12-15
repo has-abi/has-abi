@@ -17,8 +17,9 @@ I'm from Morocco 🇲🇦 I am a Data Engineer 👨‍💻 and a Backend Develop
 
 <br/>  
 
+## 💻 Technical Stack
 
-## Programming Languages
+### Programming Languages
 <div align="left">
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -28,7 +29,7 @@ I'm from Morocco 🇲🇦 I am a Data Engineer 👨‍💻 and a Backend Develop
 
 <br/>  
 
-## Backend Frameworks
+### Frameworks
 <div align="left">
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
@@ -39,7 +40,7 @@ I'm from Morocco 🇲🇦 I am a Data Engineer 👨‍💻 and a Backend Develop
 
 <br/>
 
-## Data Engineering & Machine Learning
+### Data Engineering & Machine Learning
 <div align="left">
   
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
@@ -54,7 +55,7 @@ I'm from Morocco 🇲🇦 I am a Data Engineer 👨‍💻 and a Backend Develop
 
 <br/>
 
-## Google Cloud
+### Google Cloud
 <div align="left">
   
 ![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
@@ -68,7 +69,7 @@ I'm from Morocco 🇲🇦 I am a Data Engineer 👨‍💻 and a Backend Develop
 </div>
 <br/>
 
-## Databases
+### Databases
 <div align="left">
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
@@ -80,7 +81,7 @@ I'm from Morocco 🇲🇦 I am a Data Engineer 👨‍💻 and a Backend Develop
 
 <br/>
 
-## DevOps
+### DevOps
 <div align="left">
 
 ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
